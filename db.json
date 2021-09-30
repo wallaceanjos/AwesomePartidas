@@ -1,0 +1,66 @@
+{
+  "times": [
+    {
+      "id": 1,
+      "nome": "FLAMENGO"
+    },
+    {
+      "id": 2,
+      "nome": "FLUMINENSE"
+    },
+    {
+      "id": 3,
+      "nome": "SANTOS"
+    }
+  ],
+  "jogadores": [
+    {
+      "id": 1,
+      "nome": "asdfasdfa",
+      "posicao": "Lateral",
+      "camisa": "12341234",
+      "salario": "12341234",
+      "info": "12342134"
+    },
+    {
+      "id": 2,
+      "nome": "123412342",
+      "posicao": "Atacante",
+      "camisa": "234123",
+      "salario": "412341",
+      "info": "412341234"
+    },
+    {
+      "id": 3,
+      "nome": "Obina",
+      "posicao": "Atacante",
+      "camisa": "10",
+      "salario": "100000",
+      "info": "Obina melhor q pelé"
+    }
+  ],
+  "partidas": [
+    {
+      "id": 1000,
+      "time_casa": 1,
+      "time_visitante": 2
+    },
+    {
+      "id": 1001,
+      "time_casa": 1,
+      "time_visitante": 2
+    }
+  ],
+  "gols": [
+    {
+      "id": 10000,
+      "partida_id": 1000,
+      "jogador_id": 11
+    },
+    {
+      "id": 10001,
+      "partida_id": 1001,
+      "jogador_id": 12
+    }
+  ]
+}
